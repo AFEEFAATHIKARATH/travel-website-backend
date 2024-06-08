@@ -1,0 +1,76 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "place": "Turkey",
+      "location": "Turkey",
+      "price": "12000",
+      "image": "https://i.postimg.cc/xj7X9562/turkey.webp",
+      "description": "Explore the historical sites and stunning landscapes of Turkey. Visit the ancient city of Ephesus, marvel at the unique rock formations in Cappadocia, and soak in the rich cultural heritage of Istanbul, where East meets West. Take a hot air balloon ride over the fairy chimneys, relax in the thermal pools of Pamukkale, and cruise along the beautiful Turquoise Coast. Experience the vibrant bazaars, indulge in delicious Turkish cuisine, and enjoy the warm hospitality of the locals."
+    },
+    {
+      "id": 2,
+      "place": "Dubai",
+      "location": "UAE",
+      "price": "15000",
+      "image": "https://i.postimg.cc/tTmzjWLS/dubai-and-the-uae-a-global-wealth-nexus.webp",
+      "description": "Experience luxury and modernity in the dazzling city of Dubai. Enjoy a desert safari, visit the iconic Burj Khalifa, shop at the world's largest mall, and relax at the pristine beaches along the Arabian Gulf. Explore the traditional souks, take a boat ride on Dubai Creek, and visit the Palm Jumeirah. Discover the underwater world at the Dubai Aquarium, enjoy thrilling rides at theme parks, and dine at world-renowned restaurants. Dubai offers a perfect blend of adventure, culture, and relaxation."
+    },
+    {
+      "id": 3,
+      "place": "Qatar",
+      "location": "Qatar",
+      "price": "13000",
+      "image": "https://i.postimg.cc/7ZN7P7Cn/qatar.webp",
+      "description": "Discover the rich culture and futuristic architecture of Qatar. Explore the Museum of Islamic Art, stroll along the Doha Corniche, and experience the vibrant souqs. Visit the stunning Katara Cultural Village, take a desert safari to the inland sea, and relax at the luxurious resorts. Experience world-class sports events, indulge in international cuisine, and enjoy the cosmopolitan vibe of Doha. Qatar offers a unique blend of tradition and modernity, making it a fascinating destination to explore."
+    },
+    {
+      "id": 4,
+      "place": "Tokyo",
+      "location": "Japan",
+      "price": 1400,
+      "image": "https://i.postimg.cc/3R8tJYJd/tokyo.jpg",
+      "description": "Immerse yourself in the vibrant culture and cutting-edge technology of Tokyo. Visit historic temples, indulge in world-class cuisine, explore bustling neighborhoods like Shibuya and Akihabara, and experience the serene beauty of traditional gardens. Discover the latest trends in fashion and electronics, enjoy the lively nightlife, and take part in unique cultural experiences. From the iconic Tokyo Tower to the tranquil Meiji Shrine, Tokyo offers a diverse range of attractions that cater to every interest."
+    },
+    {
+      "id": 5,
+      "place": "Malaysia",
+      "location": "Malaysia",
+      "price": 1350,
+      "image": "https://i.postimg.cc/15W5FNXH/kuala-lumpur.avif",
+      "description": "Experience the cultural diversity and natural beauty of Malaysia. Explore the bustling city of Kuala Lumpur with its iconic Petronas Twin Towers, vibrant street markets, and delicious street food. Relax on the pristine beaches of Langkawi, visit the historic city of Malacca, and explore the lush rainforests of Borneo. Discover the diverse wildlife, enjoy the rich heritage, and experience the warm hospitality of Malaysia."
+    },
+    {
+      "id": 7,
+      "place": "Egypt",
+      "location": "Egypt",
+      "price": 1250,
+      "image": "https://i.postimg.cc/3wkBhp4b/wonders-egypt-guided-tour-13.webp",
+      "description": "Discover the ancient wonders and rich history of Egypt. Visit the iconic pyramids of Giza, the Sphinx, and the temples of Luxor and Karnak. Cruise along the Nile River, explore the Valley of the Kings, and marvel at the treasures of Tutankhamun in the Egyptian Museum. Experience the vibrant culture of Cairo, relax on the Red Sea beaches, and explore the unique landscapes of the Sahara Desert. Egypt offers a captivating blend of ancient history and modern charm."
+    },
+    {
+      "id": 8,
+      "place": "Singapore",
+      "location": "Singapore",
+      "price": 1400,
+      "image": "https://i.postimg.cc/BZLPRRJ3/singapore.jpg",
+      "description": "Discover the blend of modernity and tradition in the vibrant city-state of Singapore. Enjoy the futuristic Gardens by the Bay, visit the diverse cultural districts, shop on Orchard Road, and savor the culinary delights in hawker centers and fine-dining restaurants. Take a ride on the Singapore Flyer, explore Sentosa Island, and experience the bustling nightlife at Clarke Quay. Visit the iconic Marina Bay Sands, enjoy the green spaces in the city, and discover the rich history and culture at the various museums and heritage sites."
+    },
+    {
+      "id": 12,
+      "place": "Rio de Janeiro",
+      "location": "Brazil",
+      "price": 1700,
+      "image": "https://i.postimg.cc/prFH9kGh/Night-view-Rio-de-Janeiro.webp",
+      "description": "Experience the energy and beauty of Rio de Janeiro. Visit the iconic Christ the Redeemer statue, relax on the famous Copacabana and Ipanema beaches, and explore the lush Tijuca Forest. Enjoy the vibrant nightlife in Lapa, take a cable car ride to Sugarloaf Mountain, and experience the colorful Carnival festival. Discover the rich cultural heritage at the Museum of Tomorrow, enjoy delicious Brazilian cuisine, and immerse yourself in the lively samba rhythms of Rio de Janeiro."
+    },
+    {
+      "image": "https://i.postimg.cc/YqQvZxrC/0x0.webp",
+      "place": "Cape Town",
+      "location": "South Africa",
+      "price": "1000",
+      "description": "Cape Town[a] is the legislative capital of South Africa. It is the country's oldest city and the seat of the Parliament of South Africa.[11] It is the country's second-largest city, after Johannesburg, and the largest in the Western Cape.[12] The city is part of the City of Cape Town metropolitan municipality.",
+      "id": 13
+    }
+  ]
+}
